@@ -1,3 +1,4 @@
+//Clase concreta Mago
 package DesafioCreacional.abstract_factory.example.Personajes;
 public class JugadorMago implements Personaje{
     private int Vida;
