@@ -1,4 +1,4 @@
-//Fabrica concreta Enemigo Normal
+//Fabrica Enemigo Normal
 package DesafioCreacional.abstract_factory.example.Factory;
 import DesafioCreacional.abstract_factory.example.Enemigos.Enemigo;
 import DesafioCreacional.abstract_factory.example.Enemigos.EnemigoNormal;
