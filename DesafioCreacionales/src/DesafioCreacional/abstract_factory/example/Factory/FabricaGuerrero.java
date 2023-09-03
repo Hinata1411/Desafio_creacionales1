@@ -1,4 +1,4 @@
-//Fabrica concreta Guerrero
+//Fabrica Guerrero
 package DesafioCreacional.abstract_factory.example.Factory;
 
 import DesafioCreacional.abstract_factory.example.Personajes.JugadorGuerrero;
