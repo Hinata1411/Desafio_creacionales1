@@ -1,3 +1,4 @@
+//Clase Aplicacion
 package DesafioCreacional.abstract_factory.example.app;
 
 import DesafioCreacional.abstract_factory.example.Factory.Factory;
