@@ -1,4 +1,4 @@
-//Fabrica concreta Mago
+//Fabrica Mago
 package DesafioCreacional.abstract_factory.example.Factory;
 
 import DesafioCreacional.abstract_factory.example.Personajes.JugadorMago;
