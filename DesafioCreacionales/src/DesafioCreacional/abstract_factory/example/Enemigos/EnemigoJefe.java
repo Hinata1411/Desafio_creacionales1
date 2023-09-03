@@ -1,3 +1,4 @@
+//Clase concreta EnemigoJefe
 package DesafioCreacional.abstract_factory.example.Enemigos;
 public class EnemigoJefe implements Enemigo{
     private int Vida;
